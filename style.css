@@ -29,6 +29,12 @@ body {
     margin: 0;
 }
 
+.rowFirst {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5%;
+}
+
 .row {
     display: flex;
     flex-direction: row;
